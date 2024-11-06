@@ -1,0 +1,30 @@
+[
+  {
+    "project_id": "project_personal",
+    "project_name": "Ordermart Marketplace",
+    "short_description": "Online Marketplace",
+    "long_description": "Buy and sell on ordermart today , ordermart an online marketplace that connects vendors and online shoppers together through a mobile app to eliminate online scams, ensure customer satisfaction and repeat business",
+    "card_image": "../images/personal_site_card.webp",
+    "spotlight_image": "../images/personal_site_spotlight.webp",
+    "url": "https://play.google.com/store/apps/details?id=com.oladips.OrderMart&hl=en"
+  },
+  {
+    "project_id": "project_personal2",
+    "project_name": "Ordermart For Vendors",
+    "short_description": "Online Marketplace App For Vendors",
+    "long_description": "Ordermart's application for vendors to showcase thier products/goods on the ordermar app",
+    "card_image": "../images/commerce_card.webp",
+    "spotlight_image": "../images/commerce_card.webp",
+    "url": "https://play.google.com/store/apps/details?id=com.oladips.orderMart&hl=en"
+  },
+  {
+    "project_id": "project_personal3",
+    "project_name": "Panda Token Farm",
+    "short_description": "Panda Token Farm",
+    "long_description": "This project extends the Panda Token Farm experience by integrating it into a Telegram bot-based web app. The integration, developed with React and Tailwind, enhances user accessibility and engagement, enabling seamless interactions within Telegram. Users can access the Panda Token Farm’s features directly from Telegram, creating a streamlined experience for mining and referral activities, while also expanding the project’s reach on a popular messaging platform.",
+    "card_image": "../images/blog_card.webp",
+    "spotlight_image": "../images/blog_spotlight.webp",
+    "url": "https://t.me/Panda_tokenfarmbot/PandaTokenFarm/?pandaId=5564188366"
+  }
+
+]
